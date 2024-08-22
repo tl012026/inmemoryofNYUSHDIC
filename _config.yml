@@ -41,10 +41,11 @@ footer:
       url: "https://instagram.com/mmistakes"
 
 # Build settings
-remote_theme: minimal-mistakes-jekyll
+remote_theme: "mmistakes/minimal-mistakes@4.26.2"
 # theme: minimal-mistakes-jekyll
 plugins:
   - jekyll-feed
+  - jekyll-include-cache
 atom_feed:
   hide: true
 
