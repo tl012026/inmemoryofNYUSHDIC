@@ -1,0 +1,8 @@
+main:
+  - title: "Challenge"
+    url: /docs/quick-start-guide/
+  - title: "Activities"
+    url: /year-archive/
+  - title: "About us"
+    url: /categories/
+  - title: "Contact us"
