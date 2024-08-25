@@ -20,6 +20,10 @@ layout: home
             width: 100%;
             box-sizing: border-box; /* Include padding and border in element's total width and height */
             overflow: hidden; /* Prevent horizontal scrolling */
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -o-user-select: none;
+            user-select: none;
         }
         .line1 {
             font-size: 64px;

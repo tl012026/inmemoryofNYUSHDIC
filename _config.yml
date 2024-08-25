@@ -32,13 +32,16 @@ footer:
   links:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/mmistakes"
+      url: "https://www.instagram.com/nyushdic/"
     - label: "WeChat"
       icon: "fa-brands fa-weixin"
-      url: "https://instagram.com/mmistakes"
+      url: "/2024/08/23/test.html"
     - label: "linkdin"
       icon: "fa-brands fa-linkedin"
-      url: "https://instagram.com/mmistakes"
+      url: "https://www.linkedin.com/company/nyushdic"
+    - label: "Xiaohongshu"
+      icon: "/assets/images/xhs.ico"
+      url: "https://www.xiaohongshu.com/user/profile/64a1341900000000100358af"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
