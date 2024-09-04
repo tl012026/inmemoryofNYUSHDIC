@@ -36,14 +36,16 @@ body {
 .page {
   @include breakpoint($large) {
     float: inline-end;
-    width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-inline-end: $right-sidebar-width-narrow;
+    // width: calc(100% - #{$right-sidebar-width-narrow});
+    // padding-inline-end: $right-sidebar-width-narrow; // DELETE AS NO SIDEBAR REQUIREMENT
+    width: 85%;
   }
 
   @include breakpoint($x-large) {
-    width: calc(100% - #{$right-sidebar-width});
-    padding-inline-end: $right-sidebar-width;
-  }
+    // width: calc(100% - #{$right-sidebar-width});
+    // padding-inline-end: $right-sidebar-width; // SAME
+    width: 85%;
+  } 
 
   .page__inner-wrap {
     float: inline-start;
@@ -58,7 +60,7 @@ body {
       position: relative;
       float: inline-start;
       margin-inline: 0;
-      width: 100%;
+      width: 85%;
       clear: both;
     }
   }

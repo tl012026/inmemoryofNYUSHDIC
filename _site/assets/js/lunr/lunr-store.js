@@ -1,6 +1,12 @@
 var store = [{
-        "title": "Test",
-        "excerpt":"This is a test MD file.   ","categories": [],
+        "title": "How to Contact Us",
+        "excerpt":" ","categories": [],
+        "tags": [],
+        "url": "/2024/08/23/contactus.html",
+        "teaser": null
+      },{
+        "title": "WeChat Official Account",
+        "excerpt":"   ","categories": [],
         "tags": [],
         "url": "/2024/08/23/test.html",
         "teaser": null

@@ -958,10 +958,10 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 
 .initial-content, .search-content { flex: 1 0 100vh; }
 
-@media (min-width: 64em) { .page { float: inline-end; width: calc(100% - 200px); padding-inline-end: 200px; } }
-@media (min-width: 80em) { .page { width: calc(100% - 300px); padding-inline-end: 300px; } }
+@media (min-width: 64em) { .page { float: inline-end; width: 85%; } }
+@media (min-width: 80em) { .page { width: 85%; } }
 .page .page__inner-wrap { float: inline-start; margin-top: 1em; margin-inline: 0; width: 100%; clear: both; }
-.page .page__inner-wrap .page__content, .page .page__inner-wrap .page__meta, .page .page__inner-wrap .comment__date, .page .page__inner-wrap .page__share { position: relative; float: inline-start; margin-inline: 0; width: 100%; clear: both; }
+.page .page__inner-wrap .page__content, .page .page__inner-wrap .page__meta, .page .page__inner-wrap .comment__date, .page .page__inner-wrap .page__share { position: relative; float: inline-start; margin-inline: 0; width: 85%; clear: both; }
 
 .page__title { margin-top: 0; line-height: 1; }
 .page__title a { color: #3d4144; text-decoration: none; }
