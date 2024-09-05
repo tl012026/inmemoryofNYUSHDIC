@@ -5,8 +5,6 @@
 layout: home
 ---
 
-<br>
-<br>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,7 +13,8 @@ layout: home
     <style>
         .centered-text {
             text-align: center;
-            margin: 0;
+            /* margin: 0 auto; */
+            align-items: center;
             padding: 0;
             width: 100%;
             box-sizing: border-box; /* Include padding and border in element's total width and height */
@@ -24,6 +23,10 @@ layout: home
             -moz-user-select: none;
             -o-user-select: none;
             user-select: none;
+            position: absolute;
+            top: 35%;
+            left: 50%;
+            transform: translate(-50%, -50%); /* 通过transform进行居中 */
         }
         .line1 {
             font-size: 64px;
@@ -45,7 +48,6 @@ layout: home
 </head>
 <body>
     <div class="centered-text">
-        <br>
         <br>
         <div class="line1">NYU SHANGHAI</div>
         <div class="line2">DIGITAL INNOVATION CHALLENGE</div>
