@@ -45,6 +45,8 @@ layout: home
             color: #386272;
         }
     </style>
+    <img src="./assets/images/Challenge/BigGroupphoto.jpg" style="display: none;">
+    <img src="./assets/images/AboutUs/Groupphoto.jpg" style="display: none;">
 </head>
 <body>
     <div class="centered-text">
