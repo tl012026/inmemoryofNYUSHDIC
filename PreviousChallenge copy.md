@@ -1,5 +1,5 @@
 ---
-title: "NYUSHDIC 2023"
+title: "NYUSHDIC 2023 "
 permalink: /PreviousChallenge/
 layout: single
 classes: wide
