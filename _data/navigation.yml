@@ -1,8 +1,8 @@
 main:
   - title: "Challenge"
     url: /Challenge/
-  - title: "Activities"
-    url: /Activities/
+  # - title: "Activities"
+  #   url: /Activities/
   - title: "About us"
     url: /AboutUs/
   - title: "Contact us"
