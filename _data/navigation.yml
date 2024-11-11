@@ -1,5 +1,7 @@
 main:
-  - title: "Challenge"
+  - title: "DIC 2024"
+    url: /DIC2024/
+  - title: "2023 Recap"
     url: /Challenge/
   # - title: "Activities"
   #   url: /Activities/
@@ -7,3 +9,5 @@ main:
     url: /AboutUs/
   - title: "Contact us"
     url: /ContactUs/
+  # - title: "test"
+  #   url: /Flip/

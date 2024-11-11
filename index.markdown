@@ -57,5 +57,31 @@ layout: home
         <div class="line3">"Learning by Doing, Changing by Creating."</div>
     </div>
 </body>
+
+<!-- <div id="countdown-container"></div>
+
+<script>
+    function loadCountdown() {
+        var xhr = new XMLHttpRequest();
+        xhr.open('GET', '/Flip/', true);
+        xhr.onreadystatechange = function() {
+            if (xhr.readyState == 4 && xhr.status == 200) {
+                var responseText = xhr.responseText;
+                var tempDiv = document.createElement('div');
+                tempDiv.innerHTML = responseText;
+                var countdownContent = tempDiv.querySelector('.cdcontainer');
+                if (countdownContent) {
+                    document.getElementById('countdown-container').innerHTML = countdownContent.innerHTML;
+                    console.log("1");
+                }
+                console.log("2");
+            }
+        };
+        xhr.send();
+    }
+    // 页面加载时调用
+    window.onload = loadCountdown; -->
+
+<!-- </script> -->
 </html>
 <br>

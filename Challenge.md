@@ -1,5 +1,5 @@
 ---
-title: "About NYUSH Digital Innovation Challenge"
+title: "About NYUSH Digital Innovation Challenge 2023"
 permalink: /Challenge/
 layout: single
 classes: wide

@@ -12,12 +12,7 @@ classes: wide
 
 <p style="text-align: center; font-weight: bold;">You can contact us in the ways below!</p>
 <p style="text-align: center;">
-Leo Shao
+Offical Email
 <br>
-Email: hs5427@nyu.edu
+Email: shanghai.dic@nyu.edu
 <br>
-<br>
-Adelyn Li
-<br>
-Email: ml9007@nyu.edu
-</p>
