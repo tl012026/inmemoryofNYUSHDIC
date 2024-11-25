@@ -5,8 +5,7 @@ layout: single
 classes: wide
 ---
 <br>
-![Groupphoto](../assets/images/AboutUs/Groupphoto.jpg)
-<!-- ![banner](./assets/images/previouschallenge_eng/dic_ai_competition-01.jpg) -->
+<img src="../assets/images/AboutUs/cat.svg" alt="catt" style="width: 30%; height: auto; display: block; margin: 0 auto;" />
 <br>
 
 

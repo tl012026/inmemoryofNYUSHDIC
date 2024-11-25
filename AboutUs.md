@@ -5,7 +5,7 @@ layout: single
 classes: wide
 ---
 <br>
-![Groupphoto](../assets/images/AboutUs/Groupphoto.jpg)
+![Groupphoto](../assets/images/AboutUs/Groupphoto2024.png)
 <!-- ![banner](./assets/images/previouschallenge_eng/dic_ai_competition-01.jpg) -->
 <br>
 <br>
