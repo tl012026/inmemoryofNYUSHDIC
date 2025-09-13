@@ -1,6 +1,6 @@
 ---
-title: "About NYUSH Digital Innovation Challenge 2024 🥳"
-permalink: /DIC2024/
+title: "WeChat"
+permalink: /Wechat/
 layout: single
 classes: wide
 ---
@@ -16,5 +16,6 @@ classes: wide
 <img src="assets/images/WechatDICtionary.png" alt="catt" style="width: 40%; height: auto; display: block; margin: 0 auto;"/>
 
 ## Wechat Interest Group
+
 
 <img src="assets/images/QRcode_2025.JPG" alt="catt" style="width: 40%; height: auto; display: block; margin: 0 auto;"/>
