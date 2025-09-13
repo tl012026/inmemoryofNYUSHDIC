@@ -1,10 +1,10 @@
 main:
   - title: "DIC 2025"
-    url: /DIC2024/
+    url: /DIC2025/
   - title: "DIC 2024"
     url: /DIC2024/
-  - title: "2023 Recap"
-    url: /Challenge/
+  # - title: "2023 Recap"
+  #   url: /Challenge/
   # - title: "Activities"
   #   url: /Activities/
   - title: "About us"
