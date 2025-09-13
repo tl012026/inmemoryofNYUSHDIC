@@ -42,9 +42,9 @@ footer:
     - label: "Xiaohongshu"
       icon: "/assets/images/xhs.ico"
       url: "https://www.xiaohongshu.com/user/profile/64a1341900000000100358af"
-    - label: "DIC"
+    - label: "NYU Shanghai"
       icon: "/assets/images/NYUSHDIC.png"
-      url: "https://www.nyushdic.com/"
+      url: "https://shanghai.nyu.edu/"
 
 # Build settings
 remote_theme: "mmistakes/minimal-mistakes@4.26.2"
